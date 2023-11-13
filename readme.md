@@ -2,7 +2,7 @@
     alt="Text that reads 'Hello There', above 3 shooting stars"
     src="./assets/1428017174_Hi_stars.jpg"
     height="250"
-    width="600"
+    width="700"
 />
 <!-- ![Falling Stars](./assets/falling-stars.svg) -->
 # I'm Aila Jean! 👋
@@ -81,7 +81,7 @@ Replace with your own projects
   <img
     alt="github contribution grid snake animation"
     src="https://raw.githubusercontent.com/ailajm/ailajm/output/github-contribution-grid-snake.svg"
-    width="600"
+    width="700"
   />
 </picture>
 
