@@ -8,9 +8,9 @@
 # I'm Aila Jean! 👋
 
 ## About Me 🌱
-<!--
-I'm a passionate engineer based in Kentucky. I specialize in [Your Specialization] and am deeply interested in [Your Interests]. When I'm not coding, you'll find me somewhere with lots of trees with a book in my hand.
--->
+
+I have a background working with the MERN (MongoDB, Express.js, React, Node.js) and LAMP (Linux, Apache, MySQL, PHP) stacks in enterprise accounting, recruiting, and CRM solutions. I've developed a broad range of applications from simple web pages to complex database-driven web applications.
+
 - 😄 Pronouns: She/Her/Hers
 - 🔭 I’m currently working on Friendbrary
 - 🌱 I’m currently learning Typescript
@@ -18,32 +18,32 @@ I'm a passionate engineer based in Kentucky. I specialize in [Your Specializatio
 - 🤔 I’m looking for help with growing my current skillset and deeping my understanding of development.
 <!--
 - ⚡ Fun fact: [Interesting Fact About You]
-
+-->
 ## My Skill Set 💻
 
 <table><tr><td valign="top" width="33%">
 
 ### Frontend  
 <div align="center">  
-[Your Frontend Skills]
+| React | HTML | CSS | JavaScript | Bootstrap | jQuery |
 </div>
 
 </td><td valign="top" width="33%">
 
 ### Backend  
 <div align="center">  
-[Your Backend Skills]
+| Node.js | Express.js | PHP | TypeScript | MySQL | MongoDB |
 </div>
 
 </td><td valign="top" width="33%">
 
 ### DevOps & Tools  
 <div align="center">  
-[Your DevOps/Tools Skills]
+| GitLab | Bitbucket | AWS | Heroku | Shell Scripting |
 </div>
 
 </td></tr></table>  
--->
+
 ## Connect with Me 🌐
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ailajm/)](https://www.linkedin.com/in/ailajm/)
@@ -63,10 +63,9 @@ I'm a passionate engineer based in Kentucky. I specialize in [Your Specializatio
 <!--
 ## Featured Projects 🌟
 
-Replace with your own projects
-- [Project Name](Project Link)
-- [Project Name](Project Link)
-- [Project Name](Project Link)
+- Invent: A Node.js web application using Express and TypeScript. Implemented MySQL database integration, user authentication, session management, and CSRF protection. Leveraged a modular architecture with separate controllers and routes for different parts of the application. You can check out the repository [here](https://github.com/cotymckinney/invent).
+
+- FanPool: A web application that allows you to search for your favorite artist's releases from a regularly updated database of album releases (Discogs.com API). Built using JavaScript. Check out the repository [here](https://github.com/cotymckinney/fanPool).
 -->
 
 <picture>
