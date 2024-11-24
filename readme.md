@@ -15,7 +15,7 @@ I have a background working with the MERN (MongoDB, Express.js, React, Node.js) 
 - 🔭 I’m currently working on Friendbrary
 - 🌱 I’m currently learning Typescript
 - 👯 I’m looking to collaborate on anything and everything!
-- 🤔 I’m looking for help with growing my current skillset and deeping my understanding of development.
+- 🤔 I’m looking for help with growing my current skillset and expanding my understanding of development.
 <!--
 - ⚡ Fun fact: [Interesting Fact About You]
 -->
